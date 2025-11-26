@@ -1,7 +1,7 @@
 # LungNoduleAgent: Collaborative Multi-Agent Lung Nodule Diagnosis
 
 > AAAI 2026 paper “LungNoduleAgent: A Collaborative Multi-Agent System for Precision Diagnosis of Lung Nodules”
-
+**Code will be released as soon as possible.**
 ![workflow](./static/workflow.jpg)
 
 ## Repository Overview
