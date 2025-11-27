@@ -48,10 +48,13 @@
 If this work helps your research, please cite:
 
 ```
-@article{yang2026lung,
-  title   = {LungNoduleAgent: A Collaborative Multi-Agent System for Precision Diagnosis of Lung Nodules},
-  author  = {Yang, Cheng and Jin, Hui and Yu, Xinlei and Wang, Zhipeng and Liu, Yaoqun and Fan, Fenglei and Lei, Dajiang and Jia, Gangyong and Wang, Changmiao and Ge, Ruiquan},
-  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  year    = {2026}
+@misc{yang2025lung,
+      title={LungNoduleAgent: A Collaborative Multi-Agent System for Precision Diagnosis of Lung Nodules}, 
+      author={Cheng Yang and Hui Jin and Xinlei Yu and Zhipeng Wang and Yaoqun Liu and Fenglei Fan and Dajiang Lei and Gangyong Jia and Changmiao Wang and Ruiquan Ge},
+      year={2025},
+      eprint={2511.21042},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.21042}, 
 }
 ```
